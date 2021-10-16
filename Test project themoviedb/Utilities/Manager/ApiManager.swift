@@ -30,7 +30,7 @@ struct ResponseCode{
 class ApiManager: NSObject {
     
     class func headers() -> HTTPHeaders {
-        var headers: HTTPHeaders = [
+        let headers: HTTPHeaders = [
             "Content-Type": "application/json",
             "Accept": "application/json"
         ]
