@@ -13,3 +13,11 @@ Create an iOS application for browsing the latest movies, display a short detail
                 2: support both iOS device types (iPad and iPhone).
                 3: create at least one unit test!
                 4: Use some tool to generate the documentation matching Apple’s official reference documentation. https://developer.apple.com/documentation/swift
+
+
+
+
+# How To Build
+download the Project and run xcworkspace in xcode 
+select simulator and click run button on top left corner 
+if you want to run on device then you need developer account
